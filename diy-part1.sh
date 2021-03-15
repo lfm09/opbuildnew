@@ -15,5 +15,5 @@
 sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
 
 # Add a feed source
-sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-sed -i '$a src-git lienolluci https://github.com/Lienol/openwrt-luci' feeds.conf.default
+sed -i '$a src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
+sed -i '$a src-git lienol https://github.com/Lienol/openwrt-luci' feeds.conf.default
